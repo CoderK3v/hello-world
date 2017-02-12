@@ -1,2 +1,4 @@
 # hello-world
-The beginning.
+The Beginning.
+
+I want to become a Software Engineer so I'm getting started.
